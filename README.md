@@ -17,7 +17,7 @@ A recipe for a sauce that tastes like Taco Bell Red Sauce. This is not the sauce
 
 ### Directions
 1. Bring all ingredients except 1/4 cup water and corn starch to a boil in a saucepan.
-2. Reduce heat, cover, and simmer for 30 min.
+2. Reduce heat and simmer for 5 min.
 3. Mix 1/4 cup water and corn starch.
 4. Add corn starch water to the pan, bring back to a simmer, and simmer for another minute or two whisking frequently.
 
