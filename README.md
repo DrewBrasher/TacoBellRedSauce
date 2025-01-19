@@ -6,13 +6,13 @@ A recipe for a sauce that tastes like Taco Bell Red Sauce. This is not the sauce
 2 1/4 cup water (divided)  
 2 Tbsp corn starch  
 1 Tbsp paprika  
-1 1/2 tsp salt  
+1 Tbsp chili powder  
 2 Tbsp tomato paste  
 2 tsp smoked paprika  
-1/2 tsp onion powder  
+1 1/2 tsp salt  
 1 tsp nutritional yeast  
 1 tsp lime juice  
-1 Tbsp chili powder  
+1/2 tsp onion powder  
 1/2 tsp sugar  
 
 ### Directions
