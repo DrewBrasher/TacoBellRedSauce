@@ -1,5 +1,5 @@
-# Taco Bell Red Sauce Clone
-A recipe for a sauce that tastes like Taco Bell Red Sauce. This is not the sauce in the packets, it is the sauce in the Bean Burritos and that used to be on the Enchaladas and smothered burritos when they had those.
+# Taco Bell Red Sauce Copycat Recipe
+A recipe for a sauce that tastes like Taco Bell Red Sauce. This is not the sauce in the packets, it is the sauce in the Bean Burritos and that used to be on the Enchirito and Smothered Burritos when they had those.
 
 ## Recipe
 ### Ingredients
