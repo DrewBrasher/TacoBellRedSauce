@@ -3,8 +3,8 @@ A recipe for a sauce that tastes like Taco Bell Red Sauce. This is not the sauce
 
 ## Recipe
 ### Ingredients
-2 1/4 cup water (divided)  
-2 Tbsp corn starch  
+2 1/4 cup water (divided if using cornstarch)  
+1/2 tsp Xanthan Gum **or** 2 Tbsp corn starch  
 1 Tbsp paprika  
 1 Tbsp chili powder  
 2 Tbsp tomato paste  
@@ -16,10 +16,20 @@ A recipe for a sauce that tastes like Taco Bell Red Sauce. This is not the sauce
 1/2 tsp sugar  
 
 ### Directions
-1. Bring all ingredients except 1/4 cup water and corn starch to a boil in a saucepan.
+1. Bring all ingredients (except 1/4 cup water and corn starch if using cornstarch) to a boil in a saucepan.
 2. Reduce heat and simmer for 10 minutes.
+
+**If using Xanthan Gum:**
+
+3. Remove from heat, add Xanthan Gum, and blend with an immersion blender or in a blender.
+
+***If using corn starch:**
+
 3. Mix 1/4 cup water and corn starch.
 4. Add corn starch water to the pan, bring back to a simmer, and simmer for another minute or two whisking frequently.
+
+### Notes
+Using Xanthan Gum gives a better texture that is closer to the original but corn starch can be used instead.
 
 ## Contributions
 This recipe is a work in progress. I think it tastes pretty close to Taco Bell's Red Sauce but it still needs improvement. If you try a variation you think is closer feel free to fork this repo, make your adjustments, and create a pull request. Or you can just email me your recipe at info@drewbrasher.com
