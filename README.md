@@ -23,7 +23,7 @@ A recipe for a sauce that tastes like Taco Bell Red Sauce. This is not the sauce
 
 3. Remove from heat, add Xanthan Gum, and blend with an immersion blender or in a blender.
 
-***If using corn starch:**
+**If using corn starch:**
 
 3. Mix 1/4 cup water and corn starch.
 4. Add corn starch water to the pan, bring back to a simmer, and simmer for another minute or two whisking frequently.
